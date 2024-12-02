@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.pw/xmltv/epg.xml,https://epg.pw/xmltv/epg.xml.gz,http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml"
+#EXTM3U x-tvg-url=https://live.fanmingming.com/e.xml,https://epg.pw/xmltv/epg.xml,https://epg.pw/xmltv/epg.xml.gz,http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1 综合
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=$订阅源01|IPv6
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1 综合
@@ -952,9 +952,9 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/720p.m3u8$订阅源03|IPv4
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="🍀浙江频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel08/720p.m3u8$订阅源04|IPv4
 #EXTINF:-1 tvg-name="好易购" tvg-logo="https://live.fanmingming.com/tv/好易购.png" group-title="🍀浙江频道",好易购
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源01|IPv4
+https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8$订阅源01|IPv4
 #EXTINF:-1 tvg-name="好易购" tvg-logo="https://live.fanmingming.com/tv/好易购.png" group-title="🍀浙江频道",好易购
-https://ali-m-l.cztv.com/channels/lantian/channel012/720p.m3u8$订阅源02|IPv4
+https://ali-m-l.cztv.com/channels/lantian/channel011/720p.m3u8$订阅源02|IPv4
 #EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://live.fanmingming.com/tv/中国蓝新闻.png" group-title="🍀浙江频道",中国蓝新闻
 https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源01|IPv4
 #EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://live.fanmingming.com/tv/中国蓝新闻.png" group-title="🍀浙江频道",中国蓝新闻
