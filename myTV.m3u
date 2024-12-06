@@ -1923,7 +1923,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000014/1.m3u8?chan
 http://[2409:8087:74d9:21::6]/270000001128/9900000107/index.m3u8
 #EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",NEWTV军旅剧场
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000107/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",NEWTV欢笑剧场
+#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",NEWTV欢笑剧场
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",NEWTV欢笑剧场
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
@@ -2071,13 +2071,13 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 #EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png",iHOT爱科幻
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000020630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 group-title="📹|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
+#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="📹|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
+#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 group-title="📹|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
+#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000270630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 group-title="📹|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
+#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png",iHOT爱奇谈
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱浪漫.png",iHOT爱浪漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
@@ -2203,16 +2203,6 @@ http://114.252.238.87:8000/udp/239.3.1.195:9024,0.99
 http://123.113.187.204:8000/udp/239.3.1.195:9024,1.02
 #EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/经典电影.png",经典电影
 http://222.129.139.229:8888/udp/239.3.1.195:9024,1.01
-#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-http://222.210.153.89:8888/udp/239.93.0.156:2193
-#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-http://wouu.net:9977/rtp/239.93.1.10:2193
-#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-http://wouu.net:9977/udp/239.93.1.10:2193
-#EXTINF:-1 group-title="🎬|影视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="🏀|体育频道" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="🏀|体育频道" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
@@ -2443,7 +2433,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
 #EXTINF:-1 group-title="📹|纪实频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png",NEWTV军事评论
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8
-#EXTINF:-1 group-title="🎬|纪实频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png",iHOT爱历史
+#EXTINF:-1 group-title="📹|纪实频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png",iHOT爱历史
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="📹|纪实频道" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png",iHOT爱旅行
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
